@@ -1,0 +1,35 @@
+{
+  "name": "Luis Villa",
+  "age": 32,
+  "location": "Pachuca de Soto, Hidalgo",
+  "job": {
+    "name": "Sr. Software Engineer",
+    "company": "Kavak",
+    "startDate": "2021-08-01"
+  },
+  "studies": [
+    {
+      "name": "Ingeniería en Sistemas Computacionales",
+      "institution": "Universidad Autónoma de Hidalgo",
+      "startDate": "2010-07-01",
+      "endDate": "2014-12-01"
+    }
+  ],
+  "businesses": [
+    {
+      "name": "Alchimia",
+      "description": "Desarrollo de software",
+      "startDate": "2017-01-01"
+    },
+    {
+      "name": "Refaccionarias Okinawa",
+      "description": "Venta de refacciones y accesorios para vehículos",
+      "startDate": "2020-02-01"
+    },
+    {
+      "name": "Lil Shop",
+      "description": "Venta de libros, papelería y materiales de oficina",
+      "startDate": "2023-08-01"
+    }
+  ]
+}
